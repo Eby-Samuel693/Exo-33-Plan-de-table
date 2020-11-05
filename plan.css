@@ -2,16 +2,19 @@ h1{
     margin-left: 500px;
     border-style: solid;
     width: 120px;
+    background: mediumslateblue;
 }
 
 h2{
     border-style: solid;
     width: 100px;
+    background: mediumslateblue;
 }
 
 
 .1{
     margin-left: 700px;
+
 }
 
 .a1{
